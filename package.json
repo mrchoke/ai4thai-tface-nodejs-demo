@@ -1,0 +1,20 @@
+{
+  "name": "tface-node-demo",
+  "version": "1.0.0",
+  "description": "T-Face Demo for NodeJS",
+  "main": "tface.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "tface": "node tface.js"
+  },
+  "keywords": [
+    "tface",
+    "aiforthai"
+  ],
+  "author": "mrchoke@gmail.com",
+  "license": "MIT"
+}
